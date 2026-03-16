@@ -58,8 +58,11 @@ The application includes the following main screens:
 -Lớp D18CNPM4
 
 ---
+## App UI Preview
 
-## anh bai lam
+![App UI](./assets/361d624268dde683bfcc.jpg)
+![App UI](./assets/9ee54ebb4424ca7a9335.jpg)
+![App UI](./assets/a61117511dce9390cadf.jpg)
 
 ## 📦 Installation
 
